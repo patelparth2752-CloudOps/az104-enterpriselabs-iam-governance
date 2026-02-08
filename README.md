@@ -37,7 +37,7 @@ Resource Group (rg-iam-governance)
 +-- Governance Controls
 ├── Resource Tags
 └── Delete Lock
-
+![Architecture Overview](screenshots/Enterprise_Project.jpg)
 
 ---
 
